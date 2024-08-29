@@ -1,0 +1,11 @@
+Analoge værdier varierer trinløst, mens digitale værdier kun kan være 0 eller 1. Talsystemet vi bruger til daglig har 10 cifre (0-9), og tallets værdi afhænger af cifrets position (1'ere, 10'ere, 100'ere osv.).
+
+Det binære talsystem har kun to cifre (0 og 1). Hver position repræsenterer en fordobling af værdien (1, 2, 4, 8, 16 osv.). Et binært tal som "1010" er lig med 10 i decimalsystemet. 
+
+En byte består af 8 bits. Hver bit kan være 0 eller 1, og deres position bestemmer værdien. Den maksimale værdi en byte kan repræsentere er 255 (fra 0 til 255).
+
+Paritets bit bestemmer, om et tal er lige eller ulige. 
+
+MSB(most significant bit) angiver om tallet er positivt eller negativt, når en byte bruges til signed værdier (interval: -128 til 127). 
+
+Dette giver computeren mulighed for at repræsentere og behandle data, såsom farver, ved hjælp af en række nuller og 1-taller.
